@@ -17,6 +17,7 @@ class TestOvertime(unittest.TestCase):
         self.assertEqual(overtime(16, 16, 0, 0, 0, 0, 0), [0, 0, 0, 0, 0, 0, 0])
         self.assertEqual(overtime(6, 6, 6, 6, 6, 6, 6), [0, 0, 0, 0, 0, 0, 2])
         self.assertEqual(overtime(8, 8, 8, 8, 8, 0, 0), [0, 0, 0, 0, 0, 0, 0])
+        self.assertEqual(overtime(10, 10, 10, 8, 7, 0, 0), [2, 2, 1, 0, 0, 0, 0])
 
 
 if __name__ == "__main__":
