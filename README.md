@@ -24,4 +24,6 @@ The table below shows a set of example weeks, with the days on which overtime sh
 
 ## Test
 
-The test is to write a single function that will accept a list of 7 integer arguments representing the hours worked on each day, and return a corresponding list with the number of hours of overtime payable on each day. There is a single module (`overtime.py`), that contains a single function, `overtime`, which takes a list of 7 integers. The module contains a single test that you should work to.
+The test is to write a single function that will accept a list of 7 integer arguments representing the hours worked on each day, and return a corresponding list with the number of hours of overtime payable on each day.
+
+This repo contains a single module (`overtime.py`), that contains an empty function, `overtime`, which you should edit, and a single test that you should work to.
