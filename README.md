@@ -1,6 +1,6 @@
-# Overtime
+# YunoJuno Developer Test: Overtime Function
 
-Write a function that calculates the days on which overtime is payable, and how much.
+This is a test used as part of the application process for python developers applying to YunoJuno. The challenge is to write a function that calculates the days on which overtime is payable, and how much.
 
 ## Background
 
