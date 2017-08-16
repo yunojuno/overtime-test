@@ -1,7 +1,7 @@
 import unittest
 
 
-def overtime(*days):
+def overtime(*hours):
     """Calculate the amount of overtime payable per day."""
     pass
 
